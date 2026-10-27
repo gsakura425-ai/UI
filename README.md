@@ -1,5 +1,7 @@
 # UI设计 · Design Skills
 
+[中文说明](./README.zh-CN.md)
+
 面向 AI 编程工具的 **UI 设计 Skill 仓库**，把网页视觉参考提炼为可复用的设计原则、工作流程与交付检查项，帮助制作有明确风格的 H5、落地页和创意网站。
 
 当前收录 **1 个 Skill：Editorial Brutalist H5（编辑式粗野主义）**。内容以设计指令与中文提示词为主；暂未提供可运行的网站模板、在线演示或效果截图。
@@ -74,6 +76,7 @@ git clone https://github.com/gsakura425-ai/UI.git
 | 路径 | 内容与用途 |
 | --- | --- |
 | [README.md](./README.md) | 仓库定位、使用入口与扩展方向 |
+| [README.zh-CN.md](./README.zh-CN.md) | 中文项目说明与使用指南 |
 | [editorial-brutalist-h5/SKILL.md](./editorial-brutalist-h5/SKILL.md) | Skill 定义、设计流程、视觉规则、实现要求与质量检查 |
 | [editorial-brutalist-h5/references/PROMPT.md](./editorial-brutalist-h5/references/PROMPT.md) | 可复制的中文提示词及两种设计方案 |
 
